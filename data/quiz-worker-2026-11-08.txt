@@ -82,3 +82,6 @@ A: Shoot 'Em Up - Entertainment: Video Games
 Auto Quiz - Writing 🧠
 Q: What is a Tetris piece called?
 A: Tetromino - Entertainment: Video Games
+Auto Quiz - Poetry 🧠
+Q: How many French Open's did Björn Borg win?
+A: 6 - Sports
