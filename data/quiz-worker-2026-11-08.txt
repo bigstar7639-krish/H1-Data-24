@@ -73,3 +73,6 @@ A: Italy - Entertainment: Musicals & Theatres
 Auto Quiz - Pazhamozhi 🧠
 Q: Which of the following car models has been badge-engineered (rebadged) the most?
 A: Isuzu Trooper - Vehicles
+Auto Quiz - Joke 🧠
+Q: In computing, what does MIDI stand for?
+A: Musical Instrument Digital Interface - Science: Computers
