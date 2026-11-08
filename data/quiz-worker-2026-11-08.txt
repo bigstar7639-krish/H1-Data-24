@@ -112,3 +112,6 @@ A: 12 - Geography
 Auto Quiz - Story 🧠
 Q: In the game Destiny, who succeeded Peter Dinklage in voicing the protagonist's "Ghost"?
 A: Nolan North - Entertainment: Video Games
+Auto Quiz - Health 🧠
+Q: How many degrees Fahrenheit is 100 degrees Celsius? 
+A: 212 - Science & Nature
