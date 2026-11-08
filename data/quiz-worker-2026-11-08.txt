@@ -79,3 +79,6 @@ A: Musical Instrument Digital Interface - Science: Computers
 Auto Quiz - Reading 🧠
 Q: What type of genre is the controversial 2015 game "Hatred"?
 A: Shoot 'Em Up - Entertainment: Video Games
+Auto Quiz - Writing 🧠
+Q: What is a Tetris piece called?
+A: Tetromino - Entertainment: Video Games
