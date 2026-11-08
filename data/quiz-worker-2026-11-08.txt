@@ -49,3 +49,6 @@ A: John Steinbeck - Entertainment: Books
 Auto Quiz - Bike 🧠
 Q: In the anime Initial D, how does Takumi Fujiwara describe a drift?
 A: '. . . the front tires slide so the car won't face the inside' - Entertainment: Japanese Anime & Manga
+Auto Quiz - Train 🧠
+Q: In most FPS video games such as Counter-Strike, shooting which part of the body does the highest damage?
+A: Head - Entertainment: Video Games
