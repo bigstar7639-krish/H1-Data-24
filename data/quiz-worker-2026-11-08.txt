@@ -85,3 +85,6 @@ A: Tetromino - Entertainment: Video Games
 Auto Quiz - Poetry 🧠
 Q: How many French Open's did Björn Borg win?
 A: 6 - Sports
+Auto Quiz - Dancing 🧠
+Q: Which of these actors have NOT played Spiderman in the movies?
+A: Michael Cera - Entertainment: Film
