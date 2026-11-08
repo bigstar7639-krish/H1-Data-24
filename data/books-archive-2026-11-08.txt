@@ -52,3 +52,4 @@ Book - truebookofmaps0000unse - the true book of maps
 Book - isbn_9780801316272 - Reading, Writing, & Learning in ESL: A Resource Book for K-12 Teachers, Second Edition
 Kavithai - tdl.tdl_071788-nuul-tinnn-kvitai-dina-kavithai-paakm-1 - நூல் - தின கவிதை Dina Kavithai - பாகம் 1
 Kavithai - kankal-sollum-kavithai - Kankal Sollum Kavithai
+Thirukkural - TNLA-DB-7-1984-8-63-1-QH5_1984-03-23 - Thirukkural Research Laboratory at Valluvar Kottam
