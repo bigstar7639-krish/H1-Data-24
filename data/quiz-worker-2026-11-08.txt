@@ -61,3 +61,6 @@ A: de_season - Entertainment: Video Games
 Auto Quiz - Computer 🧠
 Q: What is the lowest amount of max health you can have in Team Fortress 2?
 A: 70 - Entertainment: Video Games
+Auto Quiz - Book 🧠
+Q: What was the name of the planet in "Aliens"?
+A: LV-426 - Entertainment: Film
