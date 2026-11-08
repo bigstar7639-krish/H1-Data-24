@@ -64,3 +64,6 @@ A: 70 - Entertainment: Video Games
 Auto Quiz - Book 🧠
 Q: What was the name of the planet in "Aliens"?
 A: LV-426 - Entertainment: Film
+Auto Quiz - Kavithai 🧠
+Q: Which of these animals is NOT a lizard?
+A: Tuatara - Animals
