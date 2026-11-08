@@ -58,3 +58,6 @@ A: Monopoly - Entertainment: Board Games
 Auto Quiz - Phone 🧠
 Q: Which one of these is NOT an official map in Counter-Strike: Global Offensive?
 A: de_season - Entertainment: Video Games
+Auto Quiz - Computer 🧠
+Q: What is the lowest amount of max health you can have in Team Fortress 2?
+A: 70 - Entertainment: Video Games
