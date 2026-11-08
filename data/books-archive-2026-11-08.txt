@@ -63,3 +63,4 @@ Reading - bwb_KU-102-372 - Predicting Reading Failure
 Writing - guidetowritingre0000unse_i9m4 - Guide to Writing and Research
 Writing - bwb_O8-ABL-216 - Adventures in Medical Writing
 Poetry - bwb_C0-BNY-939 - British Poetry and Prose
+Poetry - bwb_T5-ASO-592 - british poetry and prose
