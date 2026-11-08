@@ -55,3 +55,6 @@ A: Head - Entertainment: Video Games
 Auto Quiz - Flight 🧠
 Q: Which of these games includes the phrase "Do not pass Go, do not collect $200"?
 A: Monopoly - Entertainment: Board Games
+Auto Quiz - Phone 🧠
+Q: Which one of these is NOT an official map in Counter-Strike: Global Offensive?
+A: de_season - Entertainment: Video Games
