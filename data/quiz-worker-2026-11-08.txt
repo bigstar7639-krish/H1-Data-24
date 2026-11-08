@@ -76,3 +76,6 @@ A: Isuzu Trooper - Vehicles
 Auto Quiz - Joke 🧠
 Q: In computing, what does MIDI stand for?
 A: Musical Instrument Digital Interface - Science: Computers
+Auto Quiz - Reading 🧠
+Q: What type of genre is the controversial 2015 game "Hatred"?
+A: Shoot 'Em Up - Entertainment: Video Games
