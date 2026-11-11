@@ -186,3 +186,7 @@ Mountain - bwb_S0-DZK-216 - Mountain Village
 Mountain - mountainmadness0000wini_s7s5 - mountain madness
 River - unitedstatescoas0000vari_w3g4 - United States Coast Pilot: Atlantic Coast: SEction A St. Croix River to Cape Cod
 River - gilariverofsouth0000edwi - The Gila, river of the Southwest (A Bison book)
+Sky - SkyCity_201702 - Sky City
+Sky - SkyHD2 - Sky HD 2
+Star - isbn_9781530770762 - Cade (Lone Star Lovers) (Volume 1)
+Star - MEGASTARASMAISTOCADASDE2017_201712 - MEGA STAR AS MAIS TOCADAS DE 2017
