@@ -130,3 +130,9 @@ Happiness - bwb_Y0-BSQ-074 - THE HIGHER HAPPINESS
 Happiness - bwb_S0-AHD-755 - The road to happiness and other essays
 Smile - bwb_C0-AYF-092 - The Hidden Smile
 Smile - bwb_S0-BLN-009 - A Tear and A Smile
+Book - isbn_9781534672925 - The Truth Healer : Book 1: The Rosie Parker Mystery
+Book - bwb_Y0-DCL-531 - The New York Times COOK BOOK
+Kavithai - fte_book_keeranin-kavithai-keetrugal - Keeranin Kavithai Keetrugal
+Kavithai - vaanampadigalin_kavithai_iyakkam_varalarum_padippinaigalum - vaanampadigalin_kavithai_iyakkam_varalarum_padippinaigalum
+Thirukkural - kzgo_thirukkural-of-maharshi-thiruvalluvar-tamil-hindi-tr.-sri-nanda-kumar-awasthi-19 - Thirukkural Of Maharshi Thiruvalluvar Tamil Hindi Tr. Sri Nanda Kumar Awasthi 1976 Lucknow Bhuvan Vani Trust
+Thirukkural - TNLA-DB-5-1974-10-46-4-QH22_1974-01-22 - Thirukkural as a National Book
