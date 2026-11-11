@@ -161,3 +161,6 @@ Nature - bwb_S0-AWM-872 - The Nature of Biography
 Cat - trackofcat0000walt - the track of the cat
 Cat - ghostwrittenbypi0000dona - Ghost written by Picard the Cat
 Food - bwb_S0-DTM-609 - Food Editor's Hometown Favorites Cookbok American Regional and LOcal Specialties
+Dog - isbn_9780780780644 - A Dog Named Sam
+Dog - whatyourdogwants0000wild - What your dog wants
+Food - bridgesfoodbever0000marj_c5e4 - Bridges Food And Beverage Analysis
